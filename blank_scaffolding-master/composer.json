@@ -1,0 +1,12 @@
+{
+    "name": "siobh/blank-scaffolding",
+    "description": "Laravel project for scaffolding",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Siobh"
+        }
+    ],
+    "require": {}
+}
